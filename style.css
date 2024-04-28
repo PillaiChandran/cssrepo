@@ -1,0 +1,28 @@
+*{
+    background-color: #270722;
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.textalign{
+    text-align: center;
+}
+
+a{
+    font-style: italic;
+    text-decoration: none;
+    color: #DEC1FF;
+    position: relative;
+    left: 600px;
+}
+
+.HeadingsColor{
+    color:  #E4B54F;
+}
+
+.footstyle{
+    color: #E4B54F;
+     position: relative;
+     left: 620px;
+}
